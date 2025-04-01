@@ -1,0 +1,21 @@
+
+.menuPC {
+  display: black;
+}
+@media(width <868px) {
+  .menu {
+      display: black;
+  }
+  .menuPC {
+    display: none;
+  }
+
+}
+@media(width >868px) {
+  .menu {
+    display: none;
+  }
+
+}
+
+
